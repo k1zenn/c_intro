@@ -1,0 +1,37 @@
+
+C is known as mother of all programming languages 
+it was derived from b and bcpl
+it's first version came in 1972 because it had best features of both b and bcpl 
+it is known as the first complete programming language
+
+C follows pop (procedure ordiented programming)
+# is the pre processesor 
+
+/////////
+
+General rules for naming variables:
+- names can contain letters,digits and underscores
+- names must begin with a letter or an underscore
+
+///////////
+
+C data types
+-int
+-float
+-double (show accurate data upto 15 decimals)
+-char
+
+//////
+
+Basic Format specifiers
+
+%d or %i           int
+%f or %f           float
+%lf                double
+%c                 char
+%s                 string(text)
+
+
+////////
+
+for char datatypes we always use single ' ' while using  
